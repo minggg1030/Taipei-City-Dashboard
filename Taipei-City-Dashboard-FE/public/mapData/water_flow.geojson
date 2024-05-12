@@ -1,0 +1,135 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5750029, 25.0027468]
+			},
+			"properties": {
+				"Depth": 40,
+				"Address": "文山區木柵路4段159巷",
+				"District": "文山區",
+				"Date": "2021/6/4"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5521746, 25.0544521]
+			},
+			"properties": {
+				"Depth": 35,
+				"Address": "松山區敦化北路155巷100弄",
+				"District": "松山區",
+				"Date": "2021/6/4"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5444498, 25.0544517]
+			},
+			"properties": {
+				"Depth": 35,
+				"Address": "信義區忠孝東路4段553巷、基隆路1段172巷一帶",
+				"District": "信義區",
+				"Date": "2021/6/4"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5452684, 25.026019]
+			},
+			"properties": {
+				"Depth": 30,
+				"Address": "大安區四維路214號",
+				"District": "大安區",
+				"Date": "2021/6/4"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5445738, 25.0355533]
+			},
+			"properties": {
+				"Depth": 30,
+				"Address": "大安區四維路44巷",
+				"District": "大安區",
+				"Date": "2021/6/4"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5547482, 25.0192871]
+			},
+			"properties": {
+				"Depth": 30,
+				"Address": "大安區和平東路3段346巷",
+				"District": "大安區",
+				"Date": "2021/6/4"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.544097, 24.9981107]
+			},
+			"properties": {
+				"Depth": 30,
+				"Address": "文山區興德路6巷一帶",
+				"District": "文山區",
+				"Date": "2021/6/4"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5131969, 24.9981047]
+			},
+			"properties": {
+				"Depth": 30,
+				"Address": "信義區信義路6段一帶",
+				"District": "信義區",
+				"Date": "2021/6/4"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5595408, 25.0314891]
+			},
+			"properties": {
+				"Depth": 30,
+				"Address": "信義區莊敬路一帶",
+				"District": "信義區",
+				"Date": "2021/6/4"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5529496, 25.0218986]
+			},
+			"properties": {
+				"Depth": 30,
+				"Address": "信義區和平東路3段295號",
+				"District": "信義區",
+				"Date": "2021/6/4"
+			}
+		}
+	]
+}
